@@ -24,8 +24,20 @@
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
+        android:id="@+id/dataFragment"
+        android:name="ru.mirea.sevostyanov.mireaproject.DataFragment"
+        android:label="fragment_data_view"
+        tools:layout="@layout/fragment_data" />
+
+    <fragment
         android:id="@+id/webViewFragment"
         android:name="ru.mirea.sevostyanov.mireaproject.WebViewFragment"
         android:label="fragment_web_view"
         tools:layout="@layout/fragment_web_view" />
+
+    <fragment
+        android:id="@+id/workerViewFragment"
+        android:name="ru.mirea.sevostyanov.mireaproject.Worker"
+        android:label="fragment_worker_view"
+        tools:layout="@layout/fragment_worker" />
 </navigation>

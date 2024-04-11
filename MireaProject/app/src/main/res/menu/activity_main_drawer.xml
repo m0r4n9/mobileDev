@@ -13,5 +13,10 @@
             android:id="@+id/webViewFragment"
             android:icon="@android:drawable/ic_menu_mapmode"
             android:title="WEB" />
+
+        <item
+            android:id="@+id/workerViewFragment"
+            android:icon="@android:drawable/dark_header"
+            android:title="Worker" />
     </group>
 </menu>
