@@ -40,4 +40,22 @@
         android:name="ru.mirea.sevostyanov.mireaproject.Worker"
         android:label="fragment_worker_view"
         tools:layout="@layout/fragment_worker" />
+
+    <fragment
+        android:id="@+id/sensorEventFragment"
+        android:name="ru.mirea.sevostyanov.mireaproject.SensorEventFragment"
+        android:label="fragment_event_sensor"
+        tools:layout="@layout/fragment_sensor_event" />
+
+    <fragment
+        android:id="@+id/cameraFragment"
+        android:name="ru.mirea.sevostyanov.mireaproject.CameraFragment"
+        android:label="fragment_camera"
+        tools:layout="@layout/fragment_camera" />
+
+    <fragment
+        android:id="@+id/recordFragment"
+        android:name="ru.mirea.sevostyanov.mireaproject.RecordFragment"
+        android:label="fragment_record"
+        tools:layout="@layout/fragment_camera" />
 </navigation>
