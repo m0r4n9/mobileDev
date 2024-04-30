@@ -33,5 +33,15 @@
             android:id="@+id/recordFragment"
             android:icon="@android:drawable/dark_header"
             android:title="Record" />
+
+        <item
+            android:id="@+id/profileFragment"
+            android:icon="@android:drawable/dark_header"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/fileFragment"
+            android:icon="@android:drawable/dark_header"
+            android:title="File" />
     </group>
 </menu>
