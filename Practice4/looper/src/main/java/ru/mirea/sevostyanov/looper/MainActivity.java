@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         MyLooper myLooper = new MyLooper(mainThreadHandler);
         myLooper.start();
 
-        binding.editTextMirea.setText("Мой номер по списку №23");
+        binding.editTextMirea.setText("Мой номер по списку №22");
         binding.button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
