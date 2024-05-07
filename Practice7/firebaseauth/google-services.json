@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584607171696",
+    "project_id": "practice7-aeac5",
+    "storage_bucket": "practice7-aeac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584607171696:android:c9d55d0f4e9385b37560b5",
+        "android_client_info": {
+          "package_name": "ru.mirea.sevostyanov.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm2FnTB9O-zNDIpLkWVokasc0DE_CYqCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
