@@ -43,5 +43,10 @@
             android:id="@+id/fileFragment"
             android:icon="@android:drawable/dark_header"
             android:title="File" />
+
+        <item
+            android:id="@+id/networkFragment"
+            android:icon="@android:drawable/dark_header"
+            android:title="Fetch posts" />
     </group>
 </menu>
